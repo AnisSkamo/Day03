@@ -11,4 +11,4 @@ function main(){
 
 }
 console.log(main());
-module.esports = main;
+module.exports = main;
